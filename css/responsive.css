@@ -1,0 +1,27 @@
+/************ start responsive style ****************/
+/* mobile-device */
+@media only screen and (max-width: 768px){
+    .container{width: 100%;}
+    .carousel-caption {
+        position: absolute;
+        top: -5%;
+        left: 15%;
+    }
+    .carousel-caption h1 {
+        font-size: 1.25rem;
+        font-weight: 600;
+    }
+    .carousel-caption p {
+        font-size: 0.75rem;
+        margin-bottom: 0 !important;
+    }
+}
+@media only screen and (max-width: 992px){
+    .container{
+        width: 100%;
+    }
+    .carousel-caption h1 {
+        font-size: 1.25rem;
+        font-weight: 600;
+    }
+}
