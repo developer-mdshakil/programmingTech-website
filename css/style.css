@@ -12,3 +12,38 @@ h1{
     top: 25%;
     left: 15%;
 }
+/************ studnet-feedback ***************/
+.filled{
+    color: #F59E0B;
+}
+.empty{
+    color: #FCD34D;
+}
+.feedback-card{
+    position: relative;
+}
+.feedback-card h4{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 3rem;
+    top: 40%;
+    left: -25px;
+    background-color: #E5F6FF;
+    border-radius: 50%;
+    color: #289BDE;
+}
+#right-angle{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 3rem;
+    top: 40%;
+    right: -25px;
+    background-color: #35A1E0;
+    border-radius: 50%;
+    color: #E5F6FF;
