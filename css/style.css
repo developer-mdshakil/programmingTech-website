@@ -1,14 +1,11 @@
 /************ common css *************/
-.navbar-brand{
-    font-weight: 700;
+h1{
+    font-size: 4.063rem;
+    font-weight: 600;
 }
 /************ slider-section css start **************/
 /* carousel-caption */
 .carousel-caption{
     top: 25%;
     left: 15%;
-}
-.carousel-caption h1{
-    font-size: 4.063rem;
-    font-weight: 600;
 }
