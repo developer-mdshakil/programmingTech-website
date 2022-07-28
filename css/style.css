@@ -3,6 +3,9 @@ h1{
     font-size: 4.063rem;
     font-weight: 600;
 }
+.explore-bg{
+    background-color: #F4FAFD;
+}
 /************ slider-section css start **************/
 /* carousel-caption */
 .carousel-caption{

@@ -3,7 +3,7 @@
 @media only screen and (max-width: 576px){
     .courser-card .img-fluid{
         width: 100%;
-    }    
+    } 
 }
 @media only screen and (max-width: 768px){
     .container{width: 100%;}
@@ -19,6 +19,9 @@
     .carousel-caption p {
         font-size: 0.75rem;
         margin-bottom: 0 !important;
+    }
+    .join-section{
+        margin: 0 1rem;
     }
 }
 @media only screen and (max-width: 992px){
