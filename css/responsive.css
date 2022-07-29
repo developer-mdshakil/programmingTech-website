@@ -4,12 +4,6 @@
     .courser-card .img-fluid{
         width: 100%;
     }
-    .feedback-card h4{
-        display: none;
-    }
-    #right-angle{
-        display: none;
-    }
 }
 @media only screen and (max-width: 768px){
     .carousel-caption {
@@ -23,15 +17,6 @@
     .carousel-caption p {
         font-size: 0.75rem;
         margin-bottom: 0 !important;
-    }
-    .join-section{
-        margin: 0 1rem;
-    }
-    .feedback-card h4{
-        display: none;
-    }
-    #right-angle{
-        display: none;
     }
 }
 @media only screen and (max-width: 992px){
