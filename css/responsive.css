@@ -6,13 +6,13 @@
     }
 }
 @media only screen and (max-width: 768px){
+    h1{
+        font-size: 1.25rem;
+        font-weight: 600;
+    }
     .carousel-caption {
         top: -5%;
         left: 15%;
-    }
-  h1{
-        font-size: 1.25rem;
-        font-weight: 600;
     }
     .carousel-caption p {
         font-size: 0.75rem;
